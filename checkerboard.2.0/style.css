@@ -4,7 +4,7 @@ padding: 0;
 }
 .mega-board {
   height: 725px;
-  width: 725px;
+  width: 710px;
   border-style: solid;
   margin: auto;
 }
@@ -12,18 +12,18 @@ padding: 0;
 .board {
   border-style: solid;
   border-color: white;
-  width: 720px;
+  width: 705px;
   margin: auto;
 }
 .row {
   display: flex;
-  width: 720px;
+  width: 700px;
   
 }
 .row2 {
   display: flex;
   align-items: flex-end;
-  width: 720px;
+  width: 700px;
 }
 .box {
   width: 100px;
