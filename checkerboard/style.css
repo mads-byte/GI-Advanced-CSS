@@ -1,0 +1,28 @@
+* {
+margin: 0;
+padding: 0;
+}
+.board {
+border-style: solid;
+border-color: black;
+width: 807px;
+}
+table {
+border-style: solid;
+border-color: white;
+}
+tr {
+display: flex;
+}
+
+.black {
+background-color: black;
+width: 100px;
+height: 100px;
+}
+
+.white {
+background-color: white;
+width: 100px;
+height: 100px;
+}
